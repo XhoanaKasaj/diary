@@ -26,5 +26,6 @@ Day 4, 07.07.2022:
 -Trying to fix Hasura actions.
 -Going further with frontend part.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 5, 08.07.2022:
 -I am fixing all the errors and then will continue with the frontend's part.
