@@ -37,3 +37,9 @@ Day 5, 08.07.2022:
 Day 2, 12.07.2022:
 -Today i designed the front end part and i also faced problems in creating the second page and the third page in frontend part, where the new data (questions) will be shown.
 still trying to fix them!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 3, 13.07.2022:
+-Implementing the calculation of points in the survey.
+-Made pagination/routing.
+-Fixing the responsivity of the "Submit" Button.
